@@ -1,6 +1,7 @@
-### Hi there 👋
+"You know when they say, 'You only live once?'... 
+No, you only DIE once. You live every day!"
 
-Just discovered this... will add more later. Promise. 
+~ John Feal
 
 <!--
 **blackfalcon/blackfalcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
